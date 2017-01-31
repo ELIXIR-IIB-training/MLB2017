@@ -14,8 +14,6 @@ In collaboration with
  <table style="width:100%">
   <tr>
     <td><img src="./img/fbk.jpeg" alt="yay" height="100" width="150"></td>
-    <tr/>
-  <tr>
     <td><img src="./img/fem.png" alt="yay" height="100" width="150"></td>
     <tr/>
 </table>
