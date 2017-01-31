@@ -11,6 +11,16 @@
 In collaboration with
  Fondazione Edmund Mach, LOGO
  Fondazione Bruno Kessler, LOGO
+ <table style="width:100%">
+  <tr>
+    <td><img src="./img/fbk.jpeg" alt="yay" height="100" width="150"></td>
+    <tr/>
+  <tr>
+    <td><img src="./img/fem.png" alt="yay" height="100" width="150"></td>
+    <tr/>
+</table>
+
+
 
 ### Venue: Fondazione Edmund Mach, Trento
 
