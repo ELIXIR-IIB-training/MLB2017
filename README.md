@@ -9,8 +9,7 @@
 </table>
 
 In collaboration with
- Fondazione Edmund Mach, LOGO
- Fondazione Bruno Kessler, LOGO
+
  <table style="width:100%">
   <tr>
     <td><img src="./img/fbk.jpeg" alt="yay" height="100" width="150"></td>
@@ -47,7 +46,8 @@ The course will be highly interactive and the students will continuously put the
 
 
 
-### Prerequisites: basics of R, Python, \*nix (Unix or Linux) shell. Basic statistical knowledge
+### Prerequisites
+Basics of R, Python, \*nix (Unix or Linux) shell. Basic statistical knowledge
 
 ### Instructors
 - Fondazione Bruno Kessler, Trento, IT
@@ -61,6 +61,11 @@ The course will be highly interactive and the students will continuously put the
   + Paolo Sonego
   + Samantha Riccadonna
 
+### ELIXIR-IIB organiser:
+Vincenza Colonna
+
+### Local organiser:
+Alessandro Cestaro
 
 
 
