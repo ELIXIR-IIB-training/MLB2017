@@ -8,11 +8,11 @@ Jul 2017 - Fondazione Edmund Mach, Trento
     <tr/>
 </table>
 
-Venue: Fondazione Edmund Mach, Trento
-Date: TBD (July 2017)
-Duration: 4 days
-Description: The course will provide a full bioinformatic workflow for molecular profiling through preprocessing, machine learning and network visualization with R and Python.
-Prerequisites: basics of R, Python, \*nix (Unix or Linux) shell.  
+### Venue: Fondazione Edmund Mach, Trento
+### Date: TBD (July 2017)
+### Duration: 4 days
+### Description:
+The course will provide a full bioinformatic workflow for molecular profiling through preprocessing, machine learning and network visualization with R and Python.
 Data preparation: from GEO datasets (e.g., microarray and RNA-seq) to data matrix via \*nix shell scripting
 Data exploration and preprocessing: qualitative analysis; filtering, centering and scaling of predictors
 Classification basics: machine learning, model selection, and prediction
@@ -21,9 +21,20 @@ Performance measures and diagnostic plots - Accuracy, MCC, Stability: theory and
 Differential network analysis -- co-expression networks, graph comparison, community detection: theory and examples in R/Python, visualization by the igraph library and use of the ReNette web interface.
 
 
-Prerequisites: basics of R, Python, \*nix (Unix or Linux) shell. Basic statistical knowledge
+### Prerequisites: basics of R, Python, \*nix (Unix or Linux) shell. Basic statistical knowledge
 
-Instructors: Giuseppe Jurman (Fondazione Bruno Kessler, Trento, IT), Marco Chierici (Fondazione Bruno Kessler, Trento, IT), Davide Albanese (Fondazione E. Mach, Trento, IT), Pietro Franceschi (Fondazione E. Mach, Trento, IT), Marco Moretto (Fondazione E. Mach, Trento, IT), Paolo Sonego (Fondazione E. Mach, Trento, IT), Samantha Riccadonna (Fondazione E. Mach, Trento, IT).
+### Instructors
+- Fondazione Bruno Kessler, Trento, IT
+.. -  Giuseppe Jurman
+.. -  Marco Chierici
+
+- Fondazione E. Mach, Trento, IT
+.. -  Davide Albanese
+.. - Pietro Franceschi
+.. - Marco Moretto
+.. - Paolo Sonego
+.. - Samantha Riccadonna
+
 
 The course will be highly interactive and the students will continuously put theory into practice while learning. By the end of the course, the participants will ... . Basic Unix/Linux skills is a requirement.
 
