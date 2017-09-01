@@ -194,4 +194,6 @@ In collaboration with
 </tr>
 </table>
 
-=======
+
+
+### Practical information 
