@@ -38,6 +38,12 @@ In collaboration with
 - Vincenza Colonna (ELIXIR-IIB Training Coordinator Deputy, CNR, IT)
 <br>
 
+
+### Computing facility instruction
+
+
+
+
 ### Programme
 
 <table border="1">
