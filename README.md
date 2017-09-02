@@ -41,6 +41,10 @@ In collaboration with
 
 ### Computing facility instruction
 
+![yay](img/Slide1.JPG)
+
+![yay](img/Slide1.JPG)
+
 
 
 
@@ -200,4 +204,11 @@ In collaboration with
 </tr>
 </table>
 
-### Practical information 
+### Practical information
+
+<table style="width:100%">
+ <tr>
+   <td><img src="img/CampuSMichele.png" alt="yay" ></td>
+
+   <tr/>
+</table>
