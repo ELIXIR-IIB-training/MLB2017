@@ -75,13 +75,14 @@ In collaboration with
    <td>19:30-21:00</td>
    <td colspan="3">Welcome aperitivo at Cantina storica Istituto Agrario San Michele</td>
 </tr>
+
+<tr>
+   <td colspan="4"><h3>Tuesday  05 September 2017 - Machine Learning </h3></td>
+</tr>
 <tr>
    <td>09:30-09:40</td>
    <td>Previously On</td>
    <td colspan="2">Recap of previous lessons by participants</td>
-</tr>
-<tr>
-   <td colspan="4"><h3>Tuesday  05 September 2017 - Machine Learning </h3></td>
 </tr>
 <tr>
   <td>09:40-10:30</td>
@@ -165,6 +166,11 @@ In collaboration with
    <td>Implementation of a basic DAP in Python (Scikit-Learn) with feature ranking and classification</td>
 </tr>
 <tr>
+   <td>19:30-22:00</td>
+   <td colspan="3">Social Dinner at Albergo Ai Spiazzi</td>
+</tr>
+
+<tr>
 <td colspan="4"><h3>Thursday 07 September 2017</h3></td>
 </tr>
 <tr>
@@ -193,7 +199,5 @@ In collaboration with
 <td colspan="3">Wrap-up and feedback</td>
 </tr>
 </table>
-
-
 
 ### Practical information 
