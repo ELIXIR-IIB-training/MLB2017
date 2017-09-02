@@ -43,7 +43,7 @@ In collaboration with
 
 ![yay](img/Slide1.JPG)
 
-![yay](img/Slide1.JPG)
+![yay](img/Slide2.JPG)
 
 
 
