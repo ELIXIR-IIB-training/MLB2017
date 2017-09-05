@@ -63,7 +63,7 @@ In collaboration with
    <td>15:30-16:15</td>
    <td>Plenary lecture </td>
    <td >P. Franceschi, S. Riccadonna</td>
-   <td>Introduction to "omics" data. Principles of data exploration and  analysis</td>
+   <td>[Introduction to "omics" data. Principles of data exploration and  analysis](day1/Introduction.pdf)</td>
 </tr>
 <tr>
    <td>16:15-16:45</td>
@@ -73,7 +73,7 @@ In collaboration with
    <td>16.45-19:00</td>
    <td>Practical</td>
    <td>P. Franceschi, S. Riccadonna</td>
-   <td>Introduction to "omics" data. Principles of data exploration and  analysis </td>
+   <td>[Practicals on principles of data exploration and  analysis](day1/Principles_of_data_exploration_and_analysis.md) </td>
 </tr>
 <tr>
    <td>19:30-21:00</td>
