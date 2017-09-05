@@ -25,12 +25,12 @@ In collaboration with
 ### Instructors and helpers
 - [**Giuseppe Jurman**](http://mpba.fbk.eu/people/profile/jurman) - Fondazione Bruno Kessler, Trento, IT
 - [**Marco Chierici**](http://mpba.fbk.eu/people/profile/chierici) - Fondazione Bruno Kessler, Trento, IT
-- [**Davide Albanese**](../../../instructors/davide_albanese.html) - Fondazione E. Mach, Trento, IT
-- **Pietro Franceschi** - Fondazione E. Mach, Trento, IT
-- [**Marco Moretto**](../../../instructors/marco_moretto.html) - Fondazione E. Mach, Trento, IT
-- [**Paolo Sonego**](../../../instructors/paolo_sonego.html) - Fondazione E. Mach, Trento, IT
-- **Samantha Riccadonna** - Fondazione E. Mach, Trento, IT
-- **Andrea Cattani**  - Fondazione E. Mach, Trento, IT
+- [**Davide Albanese**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/ALBANESE-DAVIDE) - Fondazione E. Mach, Trento, IT
+- [**Pietro Franceschi**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/FRANCESCHI-PIETRO) - Fondazione E. Mach, Trento, IT
+- [**Marco Moretto**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/MORETTO-MARCO) - Fondazione E. Mach, Trento, IT
+- [**Paolo Sonego**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/SONEGO-PAOLO) - Fondazione E. Mach, Trento, IT
+- [**Samantha Riccadonna**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/RICCADONNA-SAMANTHA) - Fondazione E. Mach, Trento, IT
+- [**Andrea Cattani**](http://www.fmach.it/Chi-siamo/Organizzazione/Direzione-Generale/DG-Ripartizione-Sistemi-Informativi-e-Comunicazione/CATTANI-ANDREA)  - Fondazione E. Mach, Trento, IT
 <br>
 
 ### Organisers
