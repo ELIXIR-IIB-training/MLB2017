@@ -39,11 +39,6 @@ In collaboration with
 <br>
 
 
-### Computing facility instruction
-
-![yay](img/Slide1.JPG)
-
-![yay](img/Slide2.JPG)
 
 ### Course Material
 Days |Lessons  | Tutorials |
@@ -207,6 +202,15 @@ day 2 | [Univariate](day2/The_univariate_way.pdf)  and [Multivariate](day2/Going
 <td colspan="3">Wrap-up and feedback</td>
 </tr>
 </table>
+
+
+### Computing facility instruction
+
+![yay](img/Slide1.JPG)
+
+![yay](img/Slide2.JPG)  
+
+
 
 ### Practical information
 
