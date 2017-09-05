@@ -45,7 +45,11 @@ In collaboration with
 
 ![yay](img/Slide2.JPG)
 
-
+### Course Material
+Days |Lessons  | Tutorials |
+------------ | ------------- | ------------- |
+day 1  | [Introduction to "omics" data. Principles of data exploration and  analysis](day1/Introduction.pdf) | [Practicals on principles of data exploration and  analysis](day1/Principles_of_data_exploration_and_analysis.md)|
+day 2 | [Univariate](day2/The univariate way.pdf)  and [Multivariate](day2/Going_Multivariate.pdf) analysis| |
 
 
 ### Programme
@@ -63,7 +67,7 @@ In collaboration with
    <td>15:30-16:15</td>
    <td>Plenary lecture </td>
    <td >P. Franceschi, S. Riccadonna</td>
-   <td>[Introduction to "omics" data. Principles of data exploration and  analysis](day1/Introduction.pdf)</td>
+   <td> Introduction to "omics" data. Principles of data exploration and  analysis </td>
 </tr>
 <tr>
    <td>16:15-16:45</td>
@@ -73,7 +77,7 @@ In collaboration with
    <td>16.45-19:00</td>
    <td>Practical</td>
    <td>P. Franceschi, S. Riccadonna</td>
-   <td>[Practicals on principles of data exploration and  analysis](day1/Principles_of_data_exploration_and_analysis.md) </td>
+   <td> Practicals on principles of data exploration and  analysis </td>
 </tr>
 <tr>
    <td>19:30-21:00</td>
