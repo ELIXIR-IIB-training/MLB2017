@@ -44,7 +44,7 @@ In collaboration with
 Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
 day 1  | [Introduction to "omics" data. Principles of data exploration and  analysis](day1/Introduction.pdf) | [Practicals on principles of data exploration and  analysis](day1/Principles_of_data_exploration_and_analysis.md)|
-day 2 | [Univariate](day2/The_univariate_way.pdf)  and [Multivariate](day2/Going_Multivariate.pdf) analysis| |
+day 2 | [Univariate](day2/Univariate/The_univariate_way.pdf)  and [Multivariate](day2/Multivariate/Going_Multivariate.pdf) analysis| |
 
 
 ### Programme
