@@ -44,7 +44,7 @@ In collaboration with
 Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
 day 1  | [Introduction to "omics" data. Principles of data exploration and  analysis](day1/Introduction.pdf) | [Practicals on principles of data exploration and  analysis](day1/Principles_of_data_exploration_and_analysis.md)|
-day 2 | [Univariate](day2/Univariate/The_univariate_way.pdf)  and [Multivariate](day2/Multivariate/Going_Multivariate.pdf) analysis| [A gentle introduction to Machine Learning.pdf](day3/MLintroduction/A_gentle_introduction_to_Machine Learning.pdf)|
+day 2 | [Univariate](day2/Univariate/The_univariate_way.pdf)  and [Multivariate](day2/Multivariate/Going_Multivariate.pdf) analysis| [A gentle introduction to Machine Learning](day2/MLintroduction/A_gentle_introduction_to_Machine Learning.pdf)|
 day 3 | [Gene Expression Analysis](day3/GeneExpressionAnalysis/RNAseqDEAIntroduction2017.pdf) || 
 
 
