@@ -25,12 +25,12 @@ In collaboration with
 ### Instructors and helpers
 - [**Giuseppe Jurman**](http://mpba.fbk.eu/people/profile/jurman) - Fondazione Bruno Kessler, Trento, IT
 - [**Marco Chierici**](http://mpba.fbk.eu/people/profile/chierici) - Fondazione Bruno Kessler, Trento, IT
-- [**Davide Albanese**](../../../instructors/davide_albanese.html) - Fondazione E. Mach, Trento, IT
-- **Pietro Franceschi** - Fondazione E. Mach, Trento, IT
-- [**Marco Moretto**](../../../instructors/marco_moretto.html) - Fondazione E. Mach, Trento, IT
-- [**Paolo Sonego**](../../../instructors/paolo_sonego.html) - Fondazione E. Mach, Trento, IT
-- **Samantha Riccadonna** - Fondazione E. Mach, Trento, IT
-- **Andrea Cattani**  - Fondazione E. Mach, Trento, IT
+- [**Davide Albanese**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/ALBANESE-DAVIDE) - Fondazione E. Mach, Trento, IT
+- [**Pietro Franceschi**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/FRANCESCHI-PIETRO) - Fondazione E. Mach, Trento, IT
+- [**Marco Moretto**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/MORETTO-MARCO) - Fondazione E. Mach, Trento, IT
+- [**Paolo Sonego**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/SONEGO-PAOLO) - Fondazione E. Mach, Trento, IT
+- [**Samantha Riccadonna**](http://www.fmach.it/CRI/info-generali/organizzazione/Biologia-computazionale/RICCADONNA-SAMANTHA) - Fondazione E. Mach, Trento, IT
+- [**Andrea Cattani**](http://www.fmach.it/Chi-siamo/Organizzazione/Direzione-Generale/DG-Ripartizione-Sistemi-Informativi-e-Comunicazione/CATTANI-ANDREA)  - Fondazione E. Mach, Trento, IT
 <br>
 
 ### Organisers
@@ -44,8 +44,9 @@ In collaboration with
 Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
 day 1  | [Introduction to "omics" data. Principles of data exploration and  analysis](day1/Introduction.pdf) | [Practicals on principles of data exploration and  analysis](day1/Principles_of_data_exploration_and_analysis.md)|
-day 2 | [Univariate](day2/The_univariate_way.pdf)  and [Multivariate](day2/Going_Multivariate.pdf) analysis| |
-day 3 | [Data Analysis Plan](day3/ELIXIR2017-chierici-ML-practical.pdf)  and [DAP practicals](day3/chierici_elixir2017) analysis| |
+day 2 | [Univariate](day2/Univariate_and_Multivariate/The_univariate_way.pdf)  and [Multivariate](day2/Univariate_and_Multivariate/Going_Multivariate.pdf) analysis| [A gentle introduction to Machine Learning](day2/MLintroduction/A_gentle_introduction_to_Machine_Learning.pdf)|
+day 3 | [Gene Expression Analysis](day3/GeneExpressionAnalysis/RNAseqDEAIntroduction2017.pdf), [Data Analysis Plan](day3/ELIXIR2017-chierici-ML-practical.pdf) | [DAP practicals](day3/chierici_elixir2017)|
+
 
 ### Programme
 
