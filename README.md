@@ -45,7 +45,7 @@ Days |Lessons  | Tutorials |
 ------------ | ------------- | ------------- |
 day 1  | [Introduction to "omics" data. Principles of data exploration and  analysis](day1/Introduction.pdf) | [Practicals on principles of data exploration and  analysis](day1/Principles_of_data_exploration_and_analysis.md)|
 day 2 | [Univariate](day2/The_univariate_way.pdf)  and [Multivariate](day2/Going_Multivariate.pdf) analysis| |
-
+day 3 | [Data Analysis Plan](day3/ELIXIR2017-chierici-ML-practical.pdf)  and [DAP practicals](day3/chierici_elixir2017) analysis| |
 
 ### Programme
 
